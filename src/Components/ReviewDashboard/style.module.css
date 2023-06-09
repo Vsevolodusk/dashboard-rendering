@@ -1,0 +1,11 @@
+.userReviewsContainer{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2 , 1fr);
+  column-gap: 20px;
+  background-color: #333;
+  padding: 20px;
+}
+.reviews{
+  width: 100%;
+}
